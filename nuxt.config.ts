@@ -2,7 +2,7 @@ import { NuxtConfig } from '@nuxt/types'
 
 const NAME = 'Jakub Meysner'
 const AUTHOR = NAME
-const DESCRIPTION = 'Full-stack developer'
+const DESCRIPTION = 'Web developer'
 
 const config: NuxtConfig = {
   target: 'static',
