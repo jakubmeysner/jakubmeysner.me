@@ -24,7 +24,7 @@
     }
   },
   "dependencies": {
-    "@fontsource/inter": "^4.2.2",
+    "@fontsource/inter": "^4.3.0",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@nuxt/content": "^1.14.0",
