@@ -35,7 +35,7 @@
     "@nuxtjs/tailwindcss": "^4.1.2",
     "core-js": "^3.12.1",
     "nuxt": "^2.15.6",
-    "prism-themes": "^1.6.0",
+    "prism-themes": "^1.7.0",
     "tailwindcss": "^2.0.1-compat"
   },
   "devDependencies": {
