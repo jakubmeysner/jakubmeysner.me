@@ -10,7 +10,7 @@
       rel="noopener noreferrer"
       class="rounded-xl bg-indigo-600 hover:bg-indigo-500 text-lg px-4 py-2 shadow mt-16"
     >
-      View GitHub
+      GitHub
     </a>
   </main>
 </template>
