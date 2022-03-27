@@ -3,7 +3,7 @@
     class="p-4 shadow-md flex justify-center items-center flex-col h-[35rem] bg-gradient-to-r from-indigo-600 to-blue-900"
   >
     <h1 class="font-bold text-4xl mb-4">Jakub Meysner</h1>
-    <p class="text-2xl mb-8">Software developer</p>
+    <p class="text-2xl mb-8">Software Developer</p>
 
     <div class="flex gap-6">
       <a
