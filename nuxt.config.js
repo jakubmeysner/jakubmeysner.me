@@ -11,7 +11,7 @@ export default {
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
   },
-  css: ["@fontsource/inter/latin.css"],
+  css: ["@fontsource/jetbrains-mono/latin.css"],
   plugins: [],
   components: true,
   buildModules: [
@@ -25,13 +25,13 @@ export default {
     meta: {
       appleStatusBarStyle: "default",
       name: "Jakub Meysner",
-      theme_color: "#18181b",
+      theme_color: "#171717",
     },
     manifest: {
       name: "Jakub Meysner",
       short_name: "Jakub Meysner",
       start_url: "/",
-      background_color: "#18181b",
+      background_color: "#171717",
       lang: "en",
     },
   },
@@ -41,8 +41,7 @@ export default {
   build: {},
   fontawesome: {
     icons: {
-      solid: ["faBars", "faGlobe"],
-      brands: ["faGithub", "faLinkedin", "faTwitter"],
+      brands: ["faGithub", "faLinkedin"],
     },
   },
 }

@@ -14,7 +14,7 @@
     "lintfix": "prettier --write --list-different . && npm run lint:js -- --fix && npm run lint:style -- --fix"
   },
   "dependencies": {
-    "@fontsource/inter": "^4.5.4",
+    "@fontsource/jetbrains-mono": "^4.5.11",
     "@fortawesome/free-brands-svg-icons": "^6.0.0",
     "@fortawesome/free-solid-svg-icons": "^6.0.0",
     "@nuxt/content": "^1.15.1",

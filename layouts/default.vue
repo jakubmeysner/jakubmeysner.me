@@ -1,8 +1,6 @@
 <template>
-  <div class="font-sans bg-zinc-900 text-white min-h-full flex flex-col">
-    <app-header />
+  <div class="font-sans bg-neutral-900 text-white min-h-full flex flex-col">
     <nuxt-child class="flex-grow" />
-    <app-footer />
   </div>
 </template>
 

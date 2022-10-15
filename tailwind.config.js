@@ -2,7 +2,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Inter", "system-ui", "sans-serif"],
+        sans: ["JetBrains Mono", "system-ui", "sans-serif"],
       },
     },
   },
