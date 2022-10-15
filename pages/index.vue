@@ -39,7 +39,7 @@ export default class extends Vue {
       icon: ["fab", "github"],
     },
     {
-      href: "https://www.linkedin.com/in/jakubmeysner",
+      href: "https://www.linkedin.com/in/jakubmeysner/",
       icon: ["fab", "linkedin"],
     },
   ]
